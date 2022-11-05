@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>spiral_calendar_96px.png</file>
+        <file>ok_96px.png</file>
+    </qresource>
+</RCC>
